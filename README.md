@@ -4,7 +4,7 @@ Classical Mechanics 1
 
 # Description:
 
-this script calculates general pressure, Bernoulli's constant, hydrostatic pressure, and mechanical work.
+this script calculates general pressure, Bernoulli's constant, hydrostatic pressure, and mechanical work
 
 # Installation:
 ```bash
@@ -15,4 +15,8 @@ Execute with:
 
 fluid-mechanics.py
 ```
+# Technologies Used:
+
+Programming language Python
+
 
