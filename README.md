@@ -13,7 +13,7 @@ cd Fluid-Mechanics
 
 Execute with:
 
-fluid-mechanics.py
+python fluid-mechanics.py
 ```
 # Technologies Used:
 
